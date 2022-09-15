@@ -1,4 +1,4 @@
-## qrcode-generator
+## QR Code generator
 This project generates a simple qr-code made from node express.
 
 ## Getting Started
